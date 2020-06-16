@@ -1,0 +1,4 @@
+{"Nombre":"mateo sarmiento jose antonio","Edad":"20","Sexo":"masculino "}
+{"Nombre":"ANA PATRICIA BARBA ESCAMILLA ","Edad":"24","Sexo":"FEMENINO "}
+{"Nombre":"JUAN ANTONIO RAMOS GUZAMAN ","Edad":"24","Sexo":"MASCULINO"}
+{"Nombre":"mateo sarmiento jose antonio","Edad":"20","Sexo":"masculino "}
